@@ -1,4 +1,4 @@
-# 👋
+# 👋Ruslan Xusenov
 
 🎓 Toshkent Davlat Iqtisodiyot Universiteti  
 🔐 Axborot Xavfsizligi yo‘nalishi, 3-bosqich (3/5)
