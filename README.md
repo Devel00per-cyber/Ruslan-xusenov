@@ -37,7 +37,7 @@ Axborot xavfsizligi va backend development yo‘nalishida kuchli mutaxassis bo�
 
 ## 📫 Aloqa
 - GitHub: **@XusenovRuslan**  
-- Email: *ruslanxusenov28@gmail.com*
+- Email: *info@ruslandev.uz*
 
 ---
 
